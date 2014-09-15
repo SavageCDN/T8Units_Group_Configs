@@ -14,4 +14,7 @@ AAF				IND_F<br>
 Rebels (FIA)	BLU_G_F<br>
 Rebels (Red)	OPF_G_F<br>
 Rebels (Green)	IND_G_F<br>
-
+<br>
+Notes:<br>
+<br>
+Be sure to copy/paste the group arrays into the right section of T8_missionEXEC.sqf and update array names for the spawn and attack waves (if used)
