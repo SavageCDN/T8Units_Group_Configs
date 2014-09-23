@@ -219,16 +219,3 @@ _groupArray_BLU_F_armor_all
 _groupArray_BLU_F_heli_all
 
 */
-
-// Groups, available for HALO, ... support!  - this means EAST has two groups with 4 man, which are available as HALP Drop
-T8U_var_SupportUnitsWEST = [ 
-	_groupArray_BLU_F_BUS_reconPatrol,
-	_groupArray_BLU_F_BUS_reconSentry,
-	_groupArray_BLU_F_BUS_SniperTeam,
-	_groupArray_BLU_F_BUS_InfSentry,
-	_groupArray_BLU_F_BUS_InfTeam,
-	_groupArray_BLU_F_BUS_InfTeam_AA,
-	_groupArray_BLU_F_BUS_InfTeam_AT
-];
-
-// this groups of units are spawned directly at mission start
